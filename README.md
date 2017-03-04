@@ -1,0 +1,2 @@
+# KappaSigmaSite
+Website for fraternity
